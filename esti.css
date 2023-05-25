@@ -1,0 +1,106 @@
+@font-face {
+    font-family:fuente;
+    src: url(fuente/CARBON-DROID.ttf);
+}
+header{
+    margin: 0;
+    background:linear-gradient(to bottom, #24a205 , #4b4a4a);
+    width: 320px;
+    height: 601px;
+    position:relative;
+    top: -18px;
+    left: 900px;
+}
+
+body{
+    background-color: rgb(64, 65, 63);
+}
+.fondo{
+    position: relative;
+    top:-620px;
+    left:-100px ;
+    height: 600px;
+    width: 1000px;
+}
+.logoM{
+position: relative;
+top: -1200px;
+left:100px ;
+height: 150px;
+left: 150px;
+}
+nav{
+    float: center;
+    list-style: none;
+    overflow: hidden;
+}
+.logo{
+    float:left;
+width: 100px;
+height: 60px;
+}
+nav ul{
+    list-style: none;
+    overflow: hidden;
+}
+nav ul li {
+    float:inline-start;
+    font-size: 25px;
+}
+nav ul li a {
+    display:list-item;
+    padding: 20px;
+    color: black;
+    text-decoration: none;
+
+}
+nav ul li:hover{
+    background: rgb(78, 150, 29); height: 100px; left: 80px;
+    box-sizing:border-box;
+    box-shadow: 0 5px 10px rgb(3, 3, 3);
+}
+
+.fuente{
+    font-family:fuente;
+}
+.des{
+    height: 30px;
+    left: 30px;
+    position: relative;
+    top: 60px;
+    left: 210px;
+}
+.redes{
+    float: right;
+}
+.cree{
+    position: relative;
+    top: -0px;
+    left: 100px;
+    height: 200px;
+    width: 160px;
+}
+h1{
+    font-family:fuente;
+position: relative;
+top: -750px;
+left: 250px;
+}
+.pa{
+    font-family:fuente;
+
+}
+.pa{
+    box-sizing: border-box; height: 520px; width: 700px;
+box-shadow: 0px 5px 5px rgba(95, 95, 95, 0);
+position: relative;
+top: -700px;
+left: 90px;
+}
+.pa img{
+    width: 350px;
+    height: 300px;
+    position: relative;
+    top: -380px;
+    left: 720px;
+}
